@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color:rgb(195, 230, 230);
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+  }
+
+  #location {
+    color: rgb(40, 93, 108);
+  }
+
+  #weather-description {
+    font-size:x-large;
+    font-style:italic;
+    color: rgb(44, 103, 120);
+    margin: 15px;
+  }
